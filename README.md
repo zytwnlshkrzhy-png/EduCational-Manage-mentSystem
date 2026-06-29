@@ -8,9 +8,6 @@
 
 
 
-
-
-
 # 📘 سیستم مدیریت شهریه مجتمع آموزشی
 
 ## 📌 معرفی پروژه
@@ -31,22 +28,22 @@
 
 
 
-## 📊 نمودارهای پرو
+## 📊 نمودارهای پروژه
+
 | عنوان نمودار | لینک مشاهده |
-|گ
-| 📌 نمودار موارد کاربرد (use case)  | ! [use case] (https://uploadkon.ir/uploads/553829_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۳۱۲.jpg )
-| 🧱 نمودار کلاس‌ها (Class Diagram) | ![Class Diagram](https://uploadkon.ir/uploads/763e29_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۶۱۰.jpg) |
-| 🔁 نمودار توالی ۱ (ثبت دانش‌آموز) | ![Sequence 1](https://uploadkon.ir/uploads/bb2329_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۱۳۲.jpg) |
-| 🔁 نمودار توالی ۲ (پرداخت اقساطی) | ![Sequence 2](https://uploadkon.ir/uploads/bdb129_26IMG-۲۰۲۶۰۶۲۹-۱۹۱۵۴۴.jpg) |
-| 🔁 نمودار توالی ۳ (مشاهده صورتحساب) | ![Sequence 3](https://uploadkon.ir/uploads/47d829_26IMG-۲۰۲۶۰۶۲۹-۲۰۲۰۱۹.jpg) |
+
+| 📌 نمودار موارد کاربرد (Use Case) | ![Use Case](https://uploadkon.ir/uploads/7fb029_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۳۱۲.jpg) |
+| 🧱 نمودار کلاس‌ها (Class Diagram) | ![Class Diagram](https://uploadkon.ir/uploads/98d129_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۶۱۰.jpg) |
+| 🔁 نمودار توالی ۱ (ثبت دانش‌آموز) | ![Sequence 1](https://uploadkon.ir/uploads/797729_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۱۳۲.jpg) |
+| 🔁 نمودار توالی ۲ (پرداخت اقساطی) | ![Sequence 2](https://uploadkon.ir/uploads/a0f529_26IMG-۲۰۲۶۰۶۲۹-۱۹۱۵۴۴.jpg) |
+| 🔁 نمودار توالی ۳ (مشاهده صورتحساب) | ![Sequence 3](https://uploadkon.ir/uploads/2edb29_26IMG-۲۰۲۶۰۶۲۹-۲۰۲۰۱۹.jpg) |
 
 
 
 ## 👥 تیم توسعه‌دهنده
-- **طراحی و تحلیل:** [نام و نام خانوادگی:زیتون لشکرزهی]  
+- **طراحی و تحلیل:** [نام و نام خانوادگی :زیتون لشکرزهی]  
 - **شماره دانشجویی:** [شماره دانشجویی:40213592]  
 - **استاد راهنما:** [نام استاد:مهرداد اسلامی]
-
 
 
 
