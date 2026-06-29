@@ -31,15 +31,14 @@
 
 
 
-## 📊 نمودارهای پروژه
-
+## 📊 نمودارهای پرو
 | عنوان نمودار | لینک مشاهده |
 |گ
-| 📌 نمودار موارد کاربرد (https://uploadkon.ir/uploads/cfc529_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۳۱۲.jpg) |
+| 📌 نمودار موارد کاربرد (use case)  | ! [use case] (https://uploadkon.ir/uploads/553829_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۳۱۲.jpg )
 | 🧱 نمودار کلاس‌ها (Class Diagram) | ![Class Diagram](https://uploadkon.ir/uploads/763e29_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۶۱۰.jpg) |
 | 🔁 نمودار توالی ۱ (ثبت دانش‌آموز) | ![Sequence 1](https://uploadkon.ir/uploads/bb2329_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۱۳۲.jpg) |
 | 🔁 نمودار توالی ۲ (پرداخت اقساطی) | ![Sequence 2](https://uploadkon.ir/uploads/bdb129_26IMG-۲۰۲۶۰۶۲۹-۱۹۱۵۴۴.jpg) |
-| 🔁 نمودار توالی ۳ (مشاهده صورتحساب) | ![Sequence 3](https://uploadkon.ir/uploads/725329_26Screenshot-۲۰۲۶-۰۶-۲۹-۱۹-۱۷-۴۷-۸۰۳-app-rbmain-a.jpg) |
+| 🔁 نمودار توالی ۳ (مشاهده صورتحساب) | ![Sequence 3](https://uploadkon.ir/uploads/47d829_26IMG-۲۰۲۶۰۶۲۹-۲۰۲۰۱۹.jpg) |
 
 
 
