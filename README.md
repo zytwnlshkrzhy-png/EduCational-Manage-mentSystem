@@ -32,8 +32,8 @@
 
 | عنوان نمودار | لینک مشاهده |
 
-| 📌 نمودار موارد کاربرد (Use Case) | ![Use Case](https://uploadkon.ir/uploads/7fb029_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۳۱۲.jpg) |
-| 🧱 نمودار کلاس‌ها (Class Diagram) | ![Class Diagram](https://uploadkon.ir/uploads/98d129_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۶۱۰.jpg) |
+| 📌 نمودار موارد کاربرد (Use Case) | ![Use Case](https://uploadkon.ir/uploads/d61f01_26IMG-۲۰۲۶۰۷۰۱-۱۲۰۰۰۱.jpg) |
+| 🧱 نمودار کلاس‌ها (Class Diagram) | ![Class Diagram](https://uploadkon.ir/uploads/b4ae01_26IMG-۲۰۲۶۰۷۰۱-۱۲۰۰۵۰.jpg) |
 | 🔁 نمودار توالی ۱ (ثبت دانش‌آموز) | ![Sequence 1](https://uploadkon.ir/uploads/797729_26IMG-۲۰۲۶۰۶۲۹-۱۹۲۱۳۲.jpg) |
 | 🔁 نمودار توالی ۲ (پرداخت اقساطی) | ![Sequence 2](https://uploadkon.ir/uploads/a0f529_26IMG-۲۰۲۶۰۶۲۹-۱۹۱۵۴۴.jpg) |
 | 🔁 نمودار توالی ۳ (مشاهده صورتحساب) | ![Sequence 3](https://uploadkon.ir/uploads/2edb29_26IMG-۲۰۲۶۰۶۲۹-۲۰۲۰۱۹.jpg) |
